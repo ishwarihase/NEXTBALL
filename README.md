@@ -28,4 +28,5 @@ Phase-wise performance influenced IPL match outcomes more consistently than toss
 - banner.png
 
 ## Author
-Isha Singh
+Ishwari hase
+
